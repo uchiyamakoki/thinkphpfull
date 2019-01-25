@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -26,7 +26,7 @@
         <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/LoginController.class.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+              <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -34,8 +34,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Application/Admin/View/Login/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="34" column="42" lean-forward="true" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+            <state relative-caret-position="210">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Public/js/dialog.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -59,9 +68,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="280" />
-    <option name="y" value="45" />
-    <option name="width" value="1890" />
+    <option name="x" value="579" />
+    <option name="y" value="40" />
+    <option name="width" value="1352" />
     <option name="height" value="954" />
   </component>
   <component name="ProjectView">
@@ -114,6 +123,19 @@
               <item name="thinkphp_3.2.3_full" type="462c0819:PsiDirectoryNode" />
               <item name="Public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="thinkphp_3.2.3_full" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkphp_3.2.3_full" type="462c0819:PsiDirectoryNode" />
+              <item name="Public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thinkphp_3.2.3_full" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thinkphp_3.2.3_full" type="462c0819:PsiDirectoryNode" />
+              <item name="Public" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="dialog" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -158,17 +180,17 @@
       <workItem from="1548149716597" duration="942000" />
       <workItem from="1548227463732" duration="2482000" />
       <workItem from="1548298254059" duration="3091000" />
+      <workItem from="1548383405054" duration="638000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6515000" />
+    <option name="totallyTimeSpent" value="7153000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="187" y="30" width="1260" height="636" extended-state="0" />
-    <editor active="true" />
+    <frame x="386" y="27" width="901" height="636" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15890183" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2301305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -237,15 +259,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Public/js/dialog/layer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Public/js/jquery.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -255,24 +268,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/LoginController.class.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Application/Admin/Controller/LoginController.class.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/js/dialog/layer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="50" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="50" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Public/js/dialog.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="11" lean-forward="true" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Application/Admin/View/Login/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="34" column="42" lean-forward="true" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+        <state relative-caret-position="210">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>
